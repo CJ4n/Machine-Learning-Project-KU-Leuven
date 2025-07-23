@@ -1,0 +1,4 @@
+{
+    "exclude": ["runs", "weights", "weights_Old"]
+}
+
